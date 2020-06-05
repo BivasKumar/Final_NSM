@@ -1,3 +1,6 @@
+// simple C program for Gauss-Seidel Method
+// @author Bivas_Kumar
+
 #include <stdio.h>
 #include <math.h>
 
