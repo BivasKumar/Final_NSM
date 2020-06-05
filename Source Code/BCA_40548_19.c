@@ -1,3 +1,6 @@
+// simple C program for Simpson's 1/3 rule
+// @author Bivas_Kumar
+
 #include <stdio.h>
 #include <math.h>
 
