@@ -1,3 +1,6 @@
+// simple C program for Runge-Kutta of fourth order
+// @author BivasKumar
+
 #include <stdio.h>
 #include <math.h>
 
